@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/algasensors-meta.iml" filepath="$PROJECT_DIR$/.idea/algasensors-meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.alexguesser.device-management.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.alexguesser.device-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.alexguesser.device-management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.alexguesser.device-management.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.alexguesser.temperature-monitoring.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.alexguesser.temperature-monitoring.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.alexguesser.temperature-processing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.alexguesser.temperature-processing.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/device-management.iml" filepath="$PROJECT_DIR$/.idea/modules/device-management.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/device-management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/device-management.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/device-management.test.iml" filepath="$PROJECT_DIR$/.idea/modules/device-management.test.iml" />
